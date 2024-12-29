@@ -25,6 +25,7 @@
 - [Binary Tower Fields are the Future of Verifiable Computing](https://www.irreducible.com/posts/binary-tower-fields-are-the-future-of-verifiable-computing)
 - [Integer Multiplication in Binius](https://www.irreducible.com/posts/integer-multiplication-in-binius)
 - [Vision Mark-32: A ZK-Friendly Hash Function Over Binary Tower Fields](https://www.irreducible.com/posts/vision-mark-32-zk-hash-over-binary-tower)
+- [Understanding Binius, Part I](https://hackmd.io/@l2iterative/binius), [Part II](https://hackmd.io/@l2iterative/binius2)
 ## Videos
 - [KZG vs FRI vs Binius: Comparing Polynomial Commitment Schemes for SNARKs, STARKs, and Beyond](https://www.youtube.com/watch?v=CRla8ILUlu0)
 - [Episode 303: A Dive into Binius with Ulvetanna](https://zeroknowledge.fm/303-2/)
