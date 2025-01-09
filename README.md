@@ -38,6 +38,7 @@
 - [zkStudyClub - Succinct Arguments over Towers of Binary Fields](https://www.youtube.com/watch?v=BeEuphrUipk) Ben Diamond & Jim Posen
 
 ## Codes
+- https://www.binius.xyz/
 - https://gitlab.com/IrreducibleOSS/binius
 - https://github.com/IrreducibleOSS/binius
 - https://github.com/ingonyama-zk/open-binius
